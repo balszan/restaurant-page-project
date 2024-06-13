@@ -1,0 +1,65 @@
+* {
+    background-color: #fecaca;
+    text-align: center;
+    font-family: nunito,roboto,proxima-nova,"proxima nova",sans-serif;
+    margin: auto;
+
+}
+
+img {
+    width: 600px;
+    padding-top: 30px;
+}
+
+.menuImg {
+    width: 100%;
+}
+
+nav {
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+}
+
+button {
+    background: #FF4742;
+    border: 1px solid #FF4742;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 800;
+    line-height: 16px;
+    min-height: 40px;
+    outline: 0;
+    padding: 12px 14px;
+    text-align: center;
+    text-rendering: geometricprecision;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: middle;
+}
+    
+
+p {
+    width: 80%;
+    padding-top: 30px;
+    
+}
+
+h3 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+h4 {
+    margin-top: 30px;
+    line-height: 1.5em;
+
+}
